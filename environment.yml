@@ -1,0 +1,10 @@
+name: example-environment
+
+dependencies:
+  - python=3.5
+  - beautifulsoup4
+  - requests
+  - pip:
+    - twitter
+    - ads
+    - pygithub
